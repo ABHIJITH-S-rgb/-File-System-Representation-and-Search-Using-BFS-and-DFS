@@ -1,0 +1,16 @@
+BFS (Breadth-First Search)
+Start from the selected node.
+Mark the node as visited and add it to a queue.
+Remove a node from the queue and display it.
+Add its unvisited adjacent nodes to the queue.
+Repeat until the queue is empty.
+Check whether the target file was found.
+
+
+DFS (Depth-First Search)
+Start from the selected node.
+Mark the node as visited and display it.
+Visit an unvisited adjacent node recursively.
+Continue until no unvisited adjacent nodes remain.
+Backtrack and visit other unvisited nodes.
+Check whether the target file was found.
